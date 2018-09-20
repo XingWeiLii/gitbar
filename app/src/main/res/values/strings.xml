@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"高科技防窃电系统"</string>
+    <string name="fileServer">"文件服务"</string>
+    <string name="terminalServer">"设备管理"</string>
+    <string name="mainServer3">"常规检测"</string>
+    <string name="mainServer4">"窃电检测"</string>
+</resources>
